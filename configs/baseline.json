@@ -1,0 +1,8 @@
+{
+  "rounds": 12,
+  "n_clients": 21,
+  "method": "twintrust",
+  "malicious_fraction": 0.2,
+  "attack_type": "scaling_attack",
+  "seed": 42
+}

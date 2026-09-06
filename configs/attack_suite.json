@@ -1,0 +1,10 @@
+{
+  "attacks": [
+    "scaling_attack",
+    "sign_flip",
+    "outlier_attack",
+    "stale_update",
+    "model_replacement",
+    "coordinated_attack"
+  ]
+}

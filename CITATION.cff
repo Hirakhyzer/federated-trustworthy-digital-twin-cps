@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite it."
+title: "Federated Trustworthy Digital-Twin CPS"
+type: software
+authors:
+  - family-names: Khyzer
+    given-names: Hira
+version: 0.1.0
+date-released: 2026-09-06
+repository-code: "https://github.com/Hirakhyzer/federated-trustworthy-digital-twin-cps"
+license: MIT

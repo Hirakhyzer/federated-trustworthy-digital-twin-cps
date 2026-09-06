@@ -1,0 +1,3 @@
+# Offline Client
+
+Unavailable client.

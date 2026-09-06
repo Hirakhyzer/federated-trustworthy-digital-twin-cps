@@ -1,0 +1,11 @@
+{
+  "slow_client_fractions": [
+    0,
+    0.1,
+    0.2,
+    0.3,
+    0.4
+  ],
+  "method": "async_twintrust",
+  "seed": 42
+}

@@ -1,0 +1,9 @@
+{
+  "conditions": [
+    "sensor_fault",
+    "model_mismatch",
+    "domain_shift",
+    "slow_client",
+    "attack_plus_fault"
+  ]
+}
